@@ -10,3 +10,4 @@ if my_sum <= limit:
     sum_string +=" + "
 print(f"The consecutive sum: {sum_string}= {my_sum}")
 print ("Bye Bye consecutive sum")
+print("adding this line to test new git version branch")
