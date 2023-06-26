@@ -9,3 +9,4 @@ while my_sum <= limit:
 if my_sum <= limit:
     sum_string +=" + "
 print(f"The consecutive sum: {sum_string}= {my_sum}")
+print ("Bye Bye consecutive sum")
